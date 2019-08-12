@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "cases": [
+    { "id": 1, "case_token": "qwe111", "status": "new" },
+    { "id": 2, "case_token": "asd222", "status": "caseCompleted" },
+    { "id": 3, "case_token": "yxc333", "status": "sndSelected" },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
