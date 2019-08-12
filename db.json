@@ -1,7 +1,8 @@
 {
   "cases": [
-    { "id": 1, "case_token": "qwe111", "status": "new" },
+    { "id": 1, "case_token": "qwe111", "status": "start" },
     { "id": 2, "case_token": "asd222", "status": "caseCompleted" },
-    { "id": 3, "case_token": "yxc333", "status": "sndSelected" }
+    { "id": 3, "case_token": "yxc333", "status": "sndSelected" },
+    { "id": 4, "case_token": "yxc444", "status": "addressDone" }
   ]
 }
