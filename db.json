@@ -17,6 +17,8 @@
       { "event": "sndSelected", "timestamp": "2019-08-10 08:08:08.2345", "data": "{company: 12}" },
       { "event": "driverSelected", "timestamp": "2019-08-10 08:08:08.2345", "data": "{driver: 121}" }
     ] },
-    { "id": 6, "case_token": "asd666", "status": "start"}
+    { "id": 6, "case_token": "asd666", "status": "auctionStarted", "caselog": [
+      { "event": "start", "timestamp": "2019-08-10 08:08:08.2345", "data": "{}" }
+    ] }
   ]
 }
