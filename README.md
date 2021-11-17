@@ -1,7 +1,11 @@
-## Try it
+# Mocked data
+This is a static JSON mock server data repository.
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+## Instructions
 
-## Use your own data
+Can be found on [https://my-json-server.typicode.com/finnoconsult/mock-server-json-payment](https://my-json-server.typicode.com/finnoconsult/mock-server-json-payment)
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+
+## Mocked data
+- Payment transactions: https://my-json-server.typicode.com/finnoconsult/mock-server-json-payment/cases
+
