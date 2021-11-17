@@ -7,7 +7,9 @@ Usage information and more instructions can be found on [https://my-json-server.
 
 
 ## Mocked data structure
-- Payment transactions REST endpoint: https://my-json-server.typicode.com/finnoconsult/mock-server-json-payment/cases
+All entities are in db.json.
+
+- Payment transactions REST endpoint: https://my-json-server.typicode.com/finnoconsult/mock-server-json-payment/transactions
 
 
-Check db.json for more .
+
